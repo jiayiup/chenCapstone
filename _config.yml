@@ -17,7 +17,7 @@ lang: zh-CN
 title: 陈嘉仪个人网站
 email: 
 description: "陈嘉仪个人网站，用于网页设计与制作课程"
-baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/" # the optional subpath of your site, e.g. "/blog"
 url: "https://jiayichen.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "陈嘉仪"
