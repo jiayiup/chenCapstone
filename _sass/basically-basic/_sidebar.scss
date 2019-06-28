@@ -42,7 +42,7 @@
     /* line hover effect */
     a {
       position: relative;
-      color: $base-color;
+      color: #45b97c;
 
       &::before {
         display: block;
@@ -99,7 +99,7 @@
       bottom: 0;
       width: 1.5em;
       height: 1px;
-      background-color: $base-color;
+      background-color: #45b97c;
       content: "";
     }
 
@@ -119,7 +119,7 @@
 
     a {
       display: block;
-      color: $base-color;
+      color: #45b97c;
       text-decoration: none;
     }
   }
