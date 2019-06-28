@@ -1,7 +1,7 @@
 ---
 title: SVG制作
 layout: category
-permalink: /categories/SVG制作/
+permalink: /tags/SVG制作/
 taxonomy: SVG制作
 ---
 
