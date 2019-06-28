@@ -53,12 +53,12 @@
         height: 1px;
         -webkit-transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
         transition: width 0.3s cubic-bezier(0, 0, 0.3, 1);
-        background-color: $base-color;
+        background-color: #45b97c;
         content: "";
       }
 
       &:hover {
-        color: $accent-color;
+        color: #45b97c;
       }
 
       &:hover::before {
