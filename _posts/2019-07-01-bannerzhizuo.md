@@ -30,28 +30,28 @@ categories:
 
 1. 首先，我们可以在网上找到一些在线修改的作图网站，如[图怪兽](https://818ps.com/?user_source=r4321&route_id=15621485703148&route=1,&after_route=1)和[设计坞](https://isheji5.com/?utm_source=bdjj&utm_medium=C1-bd&utm_campaign=tt&utm_term=7167)。
 
-![图怪兽首页](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E5%9B%BE%E6%80%AA%E5%85%BD%E9%A6%96%E9%A1%B5.png)
+![图怪兽首页](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/tuguaishou-url.png)
 
-![设计坞首页](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E8%AE%BE%E8%AE%A1%E5%9D%9E%E9%A6%96%E9%A1%B5.png)
+![设计坞首页](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/shejiwu-url.png)
 
 2. 我们搜索banner，就能看到大量的banner模板
 
-![搜索banner](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E6%90%9C%E7%B4%A2banner.png)
+![搜索banner](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/sousuo-banner.png)
 
 3. 找到我们心仪的模板，选择进入设计版面，开始我们的banner设计
 
-![设计版面](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E8%AE%BE%E8%AE%A1%E7%89%88%E9%9D%A2.png)
+![设计版面](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/shejibanmian.png)
 
 4. 我们可以双击背景图，对图片进行修改
 
-![图片替换](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E5%9B%BE%E7%89%87%E6%9B%BF%E6%8D%A2.png)
+![图片替换](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/tupiantihuan.png)
 
 5. 双击文字，可以修改文字。右边栏有文字大小和字体特效等可供我们进行自由创作
 
-![修改文字样式](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E4%BF%AE%E6%94%B9%E6%96%87%E5%AD%97%E6%A0%B7%E5%BC%8F.png)
+![修改文字样式](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/wenziyangshi.png)
 
 6. 修改完成后，我们可以点击无水印下载。（注意：每个账号只有一次下载机会）最好选择无损PNG格式，这样你的banner在缩放下也能保持清晰。
 
-![下载banner](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E4%B8%8B%E8%BD%BDbanner.png)
+![下载banner](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/download-banner.png)
 
 7. 下载完成后，你就能收获一张你自己创作的banner啦。

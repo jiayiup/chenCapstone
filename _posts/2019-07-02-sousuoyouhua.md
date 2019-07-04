@@ -18,7 +18,7 @@ categories:
 #### 那么我们要怎样进行搜索引擎的优化呢？
 
 > ## Rand Fishkin制作了一个类似的金字塔来解释人们应该如何进行搜索引擎优化，它被称为“ Moz low的SEO需求层次结构”。
-![SEO的需求层次结构](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/SEO%E7%9A%84%E9%9C%80%E6%B1%82%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84.svg)
+![SEO的需求层次结构](https://gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/SEOjiehou.svg)
 1. 抓取可访问性，以便引擎可以访问和索引您的内容
 2. 优化关键字以吸引搜索者和引擎
 3. 出色的用户体验，包括快速加载速度，易用性以及任何设备上引人注目的用户界面
@@ -31,4 +31,4 @@ categories:
 - 还可以进行**站外优化**，选择一些针对性较强的关键词来整理出网站的长尾关键词。
 - **场外优化**还可以通过向外投放链接进行推广实现。
 
-![搜索引擎优化流程](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96%E6%B5%81%E7%A8%8B.png)
+![搜索引擎优化流程](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/sousuoyingqingyouhua.png)

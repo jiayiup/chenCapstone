@@ -38,7 +38,7 @@ categories:
 - 
 > 将各功能用块元素包裹起来，这样可以简化布局工作,于是页面就由一棵元素树组成
 
-![页面布局元素树](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80%E5%85%83%E7%B4%A0%E6%A0%91.png)
+![页面布局元素树](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/yuansushu.png)
 
 ### 制作出一个完成的HTML页面
 ```yml

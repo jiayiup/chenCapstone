@@ -12,38 +12,38 @@ categories:
 
 1.首先，我们需要下载[Github Desktop](https://desktop.github.com/)和[HBuilder](http://www.dcloud.io/hbuilderx.html)并打开。
 
-![Github Desktop](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/Github%20Desktop%E4%B8%8B%E8%BD%BD.png)
+![Github Desktop](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/Github%20Desktop-url.png)
 
-![HBuilder](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/HBuilder%E4%B8%8B%E8%BD%BD.png)
+![HBuilder](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/HBuilder-url.png)
 
 
 2.然后，我们回到我们的gitee项目仓库中，复制url。
 
-![复制gitee链接](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/gitee%E9%93%BE%E6%8E%A5.png)
+![复制gitee链接](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/gitee-url.png)
 
 3. 打开下载安装好的Github Desktop，点击File下的Clone a repository。
 
-![Clone a repository](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/Clone%20a%20repository%E6%8C%89%E9%92%AE.png)
+![Clone a repository](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/Clone%20a%20repository-anniu.png)
 
 4. 打开后点击URL，在上面的输入框（URL or usermane/repository）贴上刚刚在仓库复制的url,在下面的输入框(Local path)选择保存项目的本地地址。
 
-![URL输入](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/URL%E8%BE%93%E5%85%A5.png)
+![URL输入](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/URL-input.png)
 
 5. 等待下载完成后，我们可以在下图处选择我们要进行的分支。
 
-![修改分支](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E4%BF%AE%E6%94%B9%E5%88%86%E6%94%AF.png)
+![修改分支](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/xiugaifenzhi.png)
 
 6. 然后我们打开HBuilder，点击文件导入，从本地问目录导入，找到刚刚下载的项目文件，就可以把整个项目加载到HBuilder左边栏啦，接下来我们就可以对其进行修改啦。
 
-![导入文件](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E5%AF%BC%E5%85%A5%E6%96%87%E4%BB%B6.png)
+![导入文件](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/daoruwenjian.png)
 
-![选择文件](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6.png)
+![选择文件](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/Choice.png)
 
-![成功添加](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E6%88%90%E5%8A%9F%E6%B7%BB%E5%8A%A0.png)
+![成功添加](https://assets.gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/chenggongtianjia.png)
 
 7. 在HBuilder修改完成后保存，返回Github Desktop，我们能选择我们一个或多个修改进行commit提交。
 
-![选择commit](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/%E9%80%89%E6%8B%A9commit.png)
+![选择commit](https://gitee.com/jiayichen/jiayichen/raw/5295a5f7abf4cb194eda49ec243a510431a679d3/assets/images/Choice-commit.png)
 
 8. 最后把commit提交到gitee上（可同时提交多个），便完成修改啦。
 
