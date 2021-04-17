@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "What Is A Digital Agency？"
+excerpt_separator: "<!--more-->"
 categories:
   - 自我策展
 tags:
@@ -8,7 +9,7 @@ tags:
   - 数字营销
   - 数字营销代理
 ---
-excerpt_separator: "<!--more-->"
+
 
 
 - Digital Agency是指数字营销公司，亦被称作数字营销代理机构，是充满了战略性和创意的机构。数字营销公司在设计，开发，软件工程，数字营销和数字通信的不同领域提供服务，依靠其所经营的行业和细分市场、团队规模和专业知识，为从本地小型企业到大型国际公司、B2C或B2B品牌，提供各种类型的[业务服务](https://www.digitalsilk.com/digital-agency-services#What_Services_Do_Digital_Agencies_Offer)。除了提供创意服务和促销产品以外，还专注于用户体验，社交，数据收集和分析。
