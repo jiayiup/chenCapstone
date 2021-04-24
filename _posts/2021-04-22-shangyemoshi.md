@@ -30,8 +30,8 @@ tags:
 - 収入来源Revenue Stream：满足用户服务需求，得到满意的评价；本地成功的服务设计体系得以应用
 - 核心资源Key Resource：创新洞察能力；用户旅程图及商业地图描绘能力
 - 重要合作Key Partner：技术部门；公安部门；代驾保险商成本结构
-- Cost Structure：需要时间沉淀梳理设计方法
+- 成本结构Cost Structure：需要时间沉淀梳理设计方法
 
-![商业模式画布个人版](https://gitee.com/jiayichen/jiayichen/blob/gh-pages/assets/images/shangyemoshihuabu.png)
+![商业模式画布个人版](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/shangyemoshihuabu.png)
 
 
