@@ -21,6 +21,7 @@ tags:
 
 #### Scrum的开发流程
 - 不同于瀑布模型将开发过程划分为需求、设计、编码、测试等阶段，Scrum将整个开发过程分为多次迭代（称为Sprint，冲刺），一般为期2～4周，最常见的为2周。Scrum并非以一段时间集中完成一个过程，而是将所有过程中必须的每一部分集中在这段时间内完成。需求、设计、编码、测试、上线都必须在一个迭代中完成，每个迭代必须产生一个可以工作的软件。
+
 ![Scrum的开发流程](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/Scrumj.png)
 
 
@@ -43,9 +44,11 @@ tags:
 ### 精益创业(Lean Startup)
 - 精益创业(Lean Startup)是硅谷流行的一种创新方法论。它的核心思想是，先在市场中投入一个极简的原型产品，然后通过不断的学习和有价值的用户反馈，对产品进行快速迭代优化，以期适应市场。
 - 精益创业非常适合测试不同的想法并发现是否需要新产品；Scrum 为开发数字产品提供了一个有效的框架，包括角色和职责、人工制品、协调和规划实践——想想产品负责人的角色、产品待办事项和冲刺审查会议。
+
 ![Lean Startup and Scrum](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/Lean%20Startup%20and%20Scrum.png)
 
 - 精益创业提到的三个主要工具是：“最小可用品”、“客户反馈”、“快速迭代”。精益创业方法的核心组成部分是构建-测量-学习反馈循环。第一步是找出需要解决的问题，然后开发最小可行产品 (MVP) 以尽快开始学习过程。
+
 ![精益创业方法](https://gitee.com/jiayichen/jiayichen/raw/gh-pages/assets/images/Lean%20Startup.jpg)
 
 
