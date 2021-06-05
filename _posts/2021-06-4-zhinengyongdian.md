@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "智能用电服务行业顾客痛点初步观察分析 "
+title: "面对智能用电服务行业解决顾客痛点：启动数字化转型的设计思维工作坊 "
 excerpt_separator: "<!--more-->"
 categories:
   - 自我策展
@@ -9,6 +9,7 @@ tags:
   - 智能家居
   - 智能用电服务行业
 ---  
+## 智能用电服务行业顾客痛点初步观察分析  
 根据行业及市场报告，我们有以下初步观察。
 <!--more-->
 #### 报告1：[《2020年中国智能物联网（AIoT）白皮书》]( http://report.iresearch.cn/report_pdf.aspx?id=3529)&amp;[《2020年中国家用物联网行业研究报告》]( http://report.iresearch.cn/report_pdf.aspx?id=3714)
